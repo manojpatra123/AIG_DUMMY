@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite skipped="0" tests="1" failures="0" errors="0" name="com.mk.AppTest" time="0.002">
+  <properties>
+    <property value="IBM Corporation" name="java.vendor"/>
+    <property value="SUN_STANDARD" name="sun.java.launcher"/>
+    <property value="Windows 7" name="os.name"/>
+    <property value="C:\RAD85\IBM\SDP\jdk\jre\lib\endorsed\jaxws-api.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\endorsed\jaxb-api.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\endorsed\javax.j2ee.annotation.jar;C:\RAD85\IBM\SDP\jdk\jre\bin\default\jclSC170\vm.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\se-service.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\math.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\jlm.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\ibmorb.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\ibmorbapi.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\ibmcfw.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\ibmpkcs.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\ibmcertpathfw.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\ibmjgssfw.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\ibmjssefw.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\ibmsaslfw.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\ibmjcefw.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\ibmjgssprovider.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\ibmjsseprovider2.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\ibmcertpathprovider.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\xmldsigfw.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\xml.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\charsets.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\resources.jar;C:\RAD85\IBM\SDP\jdk\jre\lib\rt.jar" name="sun.boot.class.path"/>
+    <property value="windows" name="sun.desktop"/>
+    <property value="Sun Microsystems Inc." name="java.vm.specification.vendor"/>
+    <property value="pwa6470sr2-20120901_01 (SR2)" name="java.runtime.version"/>
+    <property value="mpatra" name="user.name"/>
+    <property value="j9jit26" name="java.compiler"/>
+    <property value="UTF8" name="os.encoding"/>
+    <property value="true" name="guice.disable.misplaced.annotation.check"/>
+    <property value="" name="com.ibm.util.extralibs.properties"/>
+    <property value="" name="com.ibm.jcl.checkClassPath"/>
+    <property value="en" name="user.language"/>
+    <property value="C:\RAD85\IBM\SDP\jdk\jre\bin\default;C:\RAD85\IBM\SDP\jdk\jre\bin" name="com.ibm.oti.vm.bootstrap.library.path"/>
+    <property value="C:\RAD85\IBM\SDP\jdk\jre\bin\default;C:\RAD85\IBM\SDP\jdk\jre\bin" name="sun.boot.library.path"/>
+    <property value="C:\software\maven\apache-maven-3.1.0\bin\..\bin\m2.conf" name="classworlds.conf"/>
+    <property value="1.7.0" name="java.version"/>
+    <property value="America/New_York" name="user.timezone"/>
+    <property value="C:\RAD85\IBM\SDP\jdk\jre\bin" name="com.ibm.system.agent.path"/>
+    <property value="64" name="sun.arch.data.model"/>
+    <property value="2" name="com.ibm.zero.version"/>
+    <property value="C:\RAD85\IBM\SDP\jdk\jre\lib\endorsed" name="java.endorsed.dirs"/>
+    <property value="26" name="com.ibm.oti.vm.library.version"/>
+    <property value="Cp1252" name="sun.jnu.encoding"/>
+    <property value="sun.io" name="file.encoding.pkg"/>
+    <property value="17" name="jxe.current.romimage.version"/>
+    <property value="\" name="file.separator"/>
+    <property value="Java Platform API Specification" name="java.specification.name"/>
+    <property value="51.0" name="java.class.version"/>
+    <property value="info" name="org.slf4j.simpleLogger.defaultLogLevel"/>
+    <property value="US" name="user.country"/>
+    <property value="C:\RAD85\IBM\SDP\jdk\jre" name="java.home"/>
+    <property value="JRE 1.7.0 Windows 7 amd64-64 20120809_118929 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR2_20120809_0948_B118929
+JIT  - r11.b01_20120808_24925
+GC   - R26_Java726_SR2_20120809_0948_B118929
+J9CL - 20120809_118929" name="java.vm.info"/>
+    <property value="6.1" name="os.version"/>
+    <property value=";" name="path.separator"/>
+    <property value="2.6" name="java.vm.version"/>
+    <property value="" name="user.variant"/>
+    <property value="Cp437" name="console.encoding"/>
+    <property value="sun.awt.windows.WPrinterJob" name="java.awt.printerjob"/>
+    <property value="UnicodeLittle" name="sun.io.unicode.encoding"/>
+    <property value="sun.awt.windows.WToolkit" name="awt.toolkit"/>
+    <property value="true" name="ibm.signalhandling.sigint"/>
+    <property value="C:\Users\mpatra" name="user.home"/>
+    <property value="little" name="com.ibm.cpu.endian"/>
+    <property value="Sun Microsystems Inc." name="java.specification.vendor"/>
+    <property value="true" name="ibm.signalhandling.sigchain"/>
+    <property value="C:\RAD85\IBM\SDP\jdk\jre\bin\default;C:\RAD85\IBM\SDP\jdk\jre\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\installed\bin;C:\RAD85\IBM\SDP\runtimes\base_v7\java\bin;C:\software\maven\apache-maven-3.1.0\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;." name="java.library.path"/>
+    <property value="http://www.ibm.com/" name="java.vendor.url"/>
+    <property value="IBM Corporation" name="java.vm.vendor"/>
+    <property value="JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 20120809_118929 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR2_20120809_0948_B118929
+JIT  - r11.b01_20120808_24925
+GC   - R26_Java726_SR2_20120809_0948_B118929
+J9CL - 20120809_118929" name="java.fullversion"/>
+    <property value="C:\software\maven\apache-maven-3.1.0\bin\.." name="maven.home"/>
+    <property value="Java(TM) SE Runtime Environment" name="java.runtime.name"/>
+    <property value="org.codehaus.plexus.classworlds.launcher.Launcher install -U" name="sun.java.command"/>
+    <property value="C:\software\maven\apache-maven-3.1.0\bin\..\boot\plexus-classworlds-2.4.2.jar" name="java.class.path"/>
+    <property value="Java Virtual Machine Specification" name="java.vm.specification.name"/>
+    <property value="1.0" name="java.vm.specification.version"/>
+    <property value="little" name="sun.cpu.endian"/>
+    <property value="C:\Users\mpatra\AppData\Local\Temp\" name="java.io.tmpdir"/>
+    <property value="Cp1252" name="ibm.system.encoding"/>
+    <property value="amd64" name="os.arch"/>
+    <property value="sun.awt.Win32GraphicsEnvironment" name="java.awt.graphicsenv"/>
+    <property value="false" name="ibm.signalhandling.rs"/>
+    <property value="C:\RAD85\IBM\SDP\jdk\jre\lib\ext" name="java.ext.dirs"/>
+    <property value="C:\workspace\PEPUI_Dummy" name="user.dir"/>
+    <property value="
+" name="line.separator"/>
+    <property value="IBM J9 VM" name="java.vm.name"/>
+    <property value="false" name="com.ibm.oti.shared.enabled"/>
+    <property value="64" name="com.ibm.vm.bitmode"/>
+    <property value="17" name="jxe.lowest.romimage.version"/>
+    <property value="Cp1252" name="file.encoding"/>
+    <property value="scar" name="com.ibm.oti.configuration"/>
+    <property value="1.7" name="java.specification.version"/>
+    <property value="20120809_118929" name="com.ibm.oti.jcl.build"/>
+  </properties>
+  <testcase classname="com.mk.AppTest" name="testApp" time="0.002"/>
+</testsuite>
